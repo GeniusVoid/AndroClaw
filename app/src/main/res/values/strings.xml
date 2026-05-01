@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroClaw</string>
+    <string name="accessibility_service_description">AndroClaw uses Accessibility Services to interact with the device UI on your behalf, allowing the AI to tap, swipe, and read screen content without requiring root access.</string>
+</resources>
